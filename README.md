@@ -27,3 +27,8 @@
 **1.6 :** _By using a user defined function perform all arithmetic operations._
 
 ![image](https://github.com/VenishSureliya/MAD_Practical-1_21012011145/assets/139520486/71387c66-cfd5-43b7-aac5-94da960da09f)
+
+
+**1.7** _Find the factorial of number by recursion. Explain "tailrec" keyword._
+
+![image](https://github.com/VenishSureliya/MAD_Practical-1_21012011145/assets/139520486/96ad56d7-9598-449f-ae29-898bc8082548)
