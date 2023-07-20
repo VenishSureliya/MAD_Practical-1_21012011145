@@ -31,4 +31,5 @@
 
 **1.7** _Find the factorial of number by recursion. Explain "tailrec" keyword._
 
-![image](https://github.com/VenishSureliya/MAD_Practical-1_21012011145/assets/139520486/96ad56d7-9598-449f-ae29-898bc8082548)
+![image](https://github.com/VenishSureliya/MAD_Practical-1_21012011145/assets/139520486/bc59396e-089b-4db1-855d-bc799d36b4ea)
+
